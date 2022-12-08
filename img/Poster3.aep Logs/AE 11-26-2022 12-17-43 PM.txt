@@ -1,0 +1,8 @@
+  11/26/2022 12:17:43 PM: Starting composition “完稿”.
+
+  Output To: C:\Users\user\Desktop\完稿.avi    11/26/2022 12:19:03 PM: Finished composition “完稿”.
+
+
+  Total Time Elapsed: 1 Min, 19 Sec
+Log closed on 11/26/2022 at 12:19:03 PM
+

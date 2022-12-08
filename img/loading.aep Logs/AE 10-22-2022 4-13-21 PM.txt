@@ -1,0 +1,8 @@
+  10/22/2022 4:13:21 PM: Starting composition “Comp 1”.
+
+  Output To: C:\Users\user\Desktop\Comp 1_1.avi    10/22/2022 4:13:23 PM: Finished composition “Comp 1”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 10/22/2022 at 4:13:23 PM
+

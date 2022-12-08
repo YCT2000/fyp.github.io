@@ -1,0 +1,8 @@
+  10/23/2022 10:44:14 PM: Starting composition “完稿-動態海報用”.
+
+  Output To: C:\Users\user\Desktop\完稿-動態海報用.avi      Render stopped by user.      Render stopped by user.      Render stopped by user.      Render stopped by user.      Render stopped by user.      Render stopped by user.      Render stopped by user.      Render stopped by user.  After Effects error: An output module stopped responding. The file may be damaged or corrupted. You may need to restart After Effects.  10/23/2022 10:44:34 PM: Finished composition “完稿-動態海報用”.
+
+
+  Total Time Elapsed: 5 Seconds
+Log closed on 10/23/2022 at 10:44:34 PM
+

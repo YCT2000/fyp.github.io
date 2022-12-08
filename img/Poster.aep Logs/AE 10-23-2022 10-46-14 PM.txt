@@ -1,0 +1,8 @@
+  10/23/2022 10:46:14 PM: Starting composition “完稿-動態海報用”.
+
+  Output To: C:\Users\user\Desktop\完稿-動態海報用_2.avi    10/23/2022 10:47:35 PM: Finished composition “完稿-動態海報用”.
+
+
+  Total Time Elapsed: 1 Min, 21 Sec
+Log closed on 10/23/2022 at 10:47:35 PM
+
